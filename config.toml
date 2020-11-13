@@ -1,4 +1,4 @@
-baseURL = "http://www.alessiatroisi.com/"
+baseURL = "https://www.alessiatroisi.com/"
 languageCode = "en-gb"
 title = "Alessia Troisi"
 theme = "hugo-researcher"
