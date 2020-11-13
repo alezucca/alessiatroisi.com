@@ -2,3 +2,17 @@ baseURL = "https://www.alessiatroisi.com/"
 languageCode = "en-gb"
 title = "Alessia Troisi"
 theme = "hugo-researcher"
+
+[menu]
+  [[menu.main]]
+    name = "About"
+    url = "/about"
+    weight = 1
+  [[menu.main]]
+    name = "Resume"
+    url = "/resume.pdf"
+    weight = 2
+  [[menu.main]]
+    name = "Contact"
+    url = "/contact"
+    weight = 3
